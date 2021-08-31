@@ -1,2 +1,0 @@
-# snake-client
-# w5
